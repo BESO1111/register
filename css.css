@@ -1,0 +1,120 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+
+#regi {
+
+    margin: 100px;
+    padding: 8px 12px;
+    cursor: pointer;
+    width: 120px;
+    font-size: 16px;
+    background-color: rgb(255, 32, 32);
+    border-radius: 15px;
+    box-shadow: 2px 4px black;
+    text-align: center;
+
+
+
+}
+
+
+
+#regi:active {
+    box-shadow: 1px 2px black;
+    transform: translateY(2px);
+    background-color: rgb(255, 52, 52);
+    ;
+
+}
+
+
+
+.elementadd {
+    width: 800px;
+    height: 600px;
+    background-color: rgb(103, 84, 120);
+    box-shadow: 0px 0px 10px black;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+
+
+.header{
+    width: 100%;
+
+    height: 50px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.reggistracia{
+
+    font-size: 22px;
+    
+   width: 150px;
+}
+
+.clozee{
+background-color: brown;
+font-size: 32px;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+
+.mtavaridivi{
+
+
+    width: 70%;
+  
+    height: 548px;
+    background-color: rgb(103, 84, 120);
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin: 0px auto;
+}
+
+
+
+
+.inputebi{
+
+    width: 220px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 20px;
+
+}
+
+.submit{
+
+    width: 80%;
+    height: 50px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding: 12px 0px;
+    cursor: pointer;
+    margin: 0px auto;
+    border-radius: 15px;
+}
+
+
+.selectt{
+
+    width: 166px;
+    height: 20px;
+}
